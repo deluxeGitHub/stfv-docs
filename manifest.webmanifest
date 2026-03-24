@@ -1,8 +1,8 @@
 
 
 {
-  "name": "BTFV Dokumente",
-  "short_name": "BTFV Dokumente",
+  "name": "STFV Dokumente",
+  "short_name": "STFV Dokumente",
   "display": "standalone",
   "start_url": "/",
   "background_color": "#ffffff",
